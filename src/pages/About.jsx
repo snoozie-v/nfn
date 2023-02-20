@@ -1,5 +1,10 @@
 import React from 'react'
-import { heroabout, tricky, tdogg, snoozie } from '../assets'
+// import { heroabout, tricky, tdogg, snoozie } from '../assets'
+
+import heroabout from '../assets/heroabout.png'
+import tricky from '../assets/tricky.jpg'
+import tdogg from '../assets/tdogg.jpg'
+import snoozie from '../assets/snoozieavatar.png'
 
 
 function About() {

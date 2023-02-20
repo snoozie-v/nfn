@@ -1,5 +1,5 @@
 import { Outlet, Link } from "react-router-dom";
-import {cropped} from "../assets"
+import cropped from "../assets/cropped-logo.png"
 
 function Layout() {
   return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import {twitterlogo} from '../assets'
+import twitterlogo from '../assets/twitterlogo.png'
 
 function TwitterSpaces() {
   return (

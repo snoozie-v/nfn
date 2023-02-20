@@ -1,7 +1,7 @@
 import ReactDOM from "react-dom/client";
 import { Routes, Route } from "react-router-dom";
 import Layout from "./pages/Layout";
-import Footer from './pages/Footer';
+
 
 import Discord from "./pages/Discord";
 import Home from "./pages/Home"

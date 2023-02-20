@@ -1,5 +1,5 @@
 import React from 'react'
-import {discord} from '../assets'
+import discord from '../assets/discord.png'
 
 function Discord() {
   return (
