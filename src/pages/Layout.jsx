@@ -7,14 +7,14 @@ function Layout() {
         <nav className="font-mono">
             <div className="w-full bg-slate-800 items-center flex">
 
-                <div className="pr-24"></div>
-                <img src={cropped} className="w-[78px] h-[78px]"></img>
-                <div className="pr-16"></div>
-                <div className="justify-center text-blue-50 text-2xl font-bold">Non-Fungible News | VeChainNFTs</div>
+                <div className="2xl:pr-24 xl:pr-12 md:pr-6 sm:pr-4 p-2"></div>
+                <img src={cropped} className="w-14"></img>
+                <div className="2xl:pr-16 xl:pr-8 md:pr-4 pr-2"></div>
+                <div className="text-blue-50 text-sm sm:font-bold sm:text-base md:text-2xl 2xl:text-4xl">Non-Fungible News | VeChainNFTs</div>
             </div>
-            <div className="bg-[#1a1a1a] text-blue-50 items-center">
-                <ul className="flex space-x-6 font-bold py-4">
-                    <li className="pl-16 hover:underline">
+            <div className="bg-[#1a1a1a] text-blue-50 items-center md-text-xl">
+                <ul className="p-2 sm:flex sm:space-x-6 text-sm sm:text-lg lg:text-2xl sm:font-bold ">
+                    <li className="hover:underline sm:pl-8">
                         <Link to="/">Home</Link>
                     </li>
                     <li className="hover:underline">

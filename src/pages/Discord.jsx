@@ -7,7 +7,7 @@ function Discord() {
         
         <div className="bg-black p-8 w-4/5 justify-center">
           
-          <div className="justify-center flex py-6 pl-8 text-bold text-blue-50 text-3xl"><img src={discord} className='rounded w-[64px] h-[64px]'></img>VeChain Discord Directory <img src={discord} className='rounded w-[64px] h-[64px]'></img></div>
+          <div className="justify-center flex py-6 text-bold text-blue-50 text-2xl">Discord Directory <img src={discord} className='rounded w-[64px] h-[64px]'></img></div>
           <div className="p-4 text-blue-50">Banner Boi - <a href="https://discord.gg/hn2R8C7XUW" className='hover:underline'>Banner Boi Discord</a></div>
           <div className="p-4 text-blue-50">BlackVeMarket - <a href="https://discord.gg/CfQy7k2QQH" className='hover:underline'>BlackVeMarket Discord</a></div>
           <div className="p-4 text-blue-50">Corgi Gang - <a href="https://discord.gg/pCsrw4mp6z" className='hover:underline'>Corgi Gang Discord</a></div>
