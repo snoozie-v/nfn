@@ -8,6 +8,9 @@ import Home from "./pages/Home"
 import TwitterSpaces from "./pages/TwitterSpaces";
 import About from "./pages/About"
 import Contact from "./pages/Contact";
+import NoPage from "./pages/NoPage";
+import { Footer } from "antd/es/layout/layout";
+
 
 function App() {
   return (
@@ -18,7 +21,7 @@ function App() {
         <Route path="discord" element={<Discord />} />
         <Route path="about" element={<About />} />
         <Route path="contact" element={<Contact />} />
-        
+        <Route path="*" element={<NoPage />} />
       </Route>
     
     </Routes>

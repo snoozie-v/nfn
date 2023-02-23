@@ -1,5 +1,6 @@
 import React from 'react'
 import discord from '../assets/discord.png'
+import Footer from  './Footer'
 
 function Discord() {
   return (
@@ -45,8 +46,9 @@ function Discord() {
           <div className="p-4 text-blue-50">YEET - <a href="https://discord.gg/C6jramq5M8" className='hover:underline'>$YEET Discord</a></div>
           <div className="p-4 text-blue-50">Zillionaire Zombies - <a href="https://discord.gg/FjPYu24GmW" className='hover:underline'>Zillionaire Zombies Discord</a></div>
           
-          
+          <Footer />
         </div>
+        
     </div>
   )
 }

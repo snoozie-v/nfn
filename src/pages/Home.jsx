@@ -31,6 +31,7 @@ import stonerp from '../assets/stonerp.jpg'
 import nonerds from '../assets/nonerds.jpg'
 import sha from '../assets/sha.jpg'
 import npo from '../assets/npo.jpg'
+import Footer from './Footer'
 
 import React from 'react'
 
@@ -115,7 +116,7 @@ function Home() {
                   </div>
                 
                 
-              
+              <Footer />
             </div>
         </div>
       )

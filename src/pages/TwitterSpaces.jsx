@@ -1,5 +1,6 @@
 import React from 'react'
 import twitterlogo from '../assets/twitterlogo.png'
+import Footer from  './Footer'
 
 function TwitterSpaces() {
   return (
@@ -60,6 +61,7 @@ function TwitterSpaces() {
           <div className="pl-4 text-blue-50 text-2xl">Saturday</div>
           <div className='p-4 text-blue-50'>- Samurai Saturday at 7:00 PM UTC   <a href="https://twitter.com/UkiyoeWarriors" className="hover:underline">Ukiyoe Warriors</a> 
           </div>
+          <Footer />
         </div>
     </div>
   )
