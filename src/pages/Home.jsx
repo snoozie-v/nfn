@@ -84,35 +84,35 @@ function Home() {
                   
 
                   <div className='sm:grid sm:grid-cols-3 sm:gap-2'>
-                  <img src={vvardogs} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={minomob} className='flex w-[360x] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={goatz} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={kbk} className='flex w-[360p] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={mva} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={bffc} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={cowboys} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={exo} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={blackvemarket} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={bookclub} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={corgi} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={secret} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={inka} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={gangster} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={wov} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={vpunks} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={vfs} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={vekings} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={venons} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={vecalendar} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={ukiyoe} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={paper} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={smuzzies} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={psycho} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={stonerp} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={sha} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={nonerds} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={npo} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
-                  <img src={nfn} className='flex w-[360px] h-[360px] 2xl:w-full 2xl:h-[520px]' />
+                  <img src={vvardogs} className='flex w-[360px] h-[420px] xl:w-full  xl:h-[640px]' />
+                  <img src={minomob} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={goatz} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={kbk} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={mva} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={bffc} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={cowboys} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={exo} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={blackvemarket} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={bookclub} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={corgi} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={secret} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={inka} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={gangster} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={wov} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={vpunks} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={vfs} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={vekings} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={venons} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={vecalendar} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={ukiyoe} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={paper} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={smuzzies} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={psycho} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={stonerp} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={sha} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={nonerds} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={npo} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
+                  <img src={nfn} className='flex w-[360px] h-[420px] xl:w-full xl:h-[640px]' />
                   </div>
                 
                 
