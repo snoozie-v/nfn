@@ -32,7 +32,7 @@ function Layout() {
                         <Link to="/about">About</Link>
                     </li>
                     <li className='hover:underline'>
-                        <Link to="contact">Contact</Link>
+                        <Link to="/contact">Contact</Link>
                     </li>
                 </ul>
             </div>
