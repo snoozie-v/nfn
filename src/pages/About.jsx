@@ -59,8 +59,9 @@ function About() {
                     nature in sunny Phoenix, Arizona.  <br></br>
 
                     <br></br>The team plans to spread the word that #VeChainHasNFTS and it's our
-                    belief that there will always be a story to be told.  This technoogy has grabbed
-                    us and we know it will grab many others as VeChain gains popularity. <br></br>
+                    belief that there will always be a story to be told. This technology has 
+                    grabbed us and we know it will grab many others as VeChain gains 
+                    in popularity. <br></br>
                 </div>
                 </div>
 
