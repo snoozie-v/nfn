@@ -34,6 +34,10 @@ function TwitterSpaces() {
             className="hover:underline">@TheVirtualFlame</a> & <a href="https://twitter.com/ferg_crypto" 
             className="hover:underline">@Ferg</a>
           </div>
+          <div className='p-4 text-blue-50'>- Off Topic at 11:00 PM UTC   <a href="https://twitter.com/crypto_lucio" 
+            className="hover:underline">LUCIO</a> & <a href="https://twitter.com/OfficialNFTnate" 
+            className="hover:underline">NATE</a>
+          </div>
           <div className="pl-4 text-blue-50 text-2xl">Tuesday</div>
           <div className='p-4 text-blue-50'>- Non Fungible Book Club at 6:00 PM UTC   <a href="https://twitter.com/NonFungibleBC" className="hover:underline">@Non-Fungible Book Club</a> 
           </div>
