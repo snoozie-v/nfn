@@ -67,13 +67,13 @@ function Home() {
                   </div>
     
                   <div>
-                    <div className='p-2 sm:flex font-bold font-lg sm:text-2xl lg:text-3xl 2xl:text-4xl'>Jan Top Volume</div>
+                    <div className='p-2 sm:flex font-bold font-lg sm:text-2xl lg:text-3xl 2xl:text-4xl'>Feb Top Volume</div>
                     <ul className='pb-4'>
-                      <li>- VeKinkgs 13.3M Vet</li>
-                      <li>- Mad V Apes 3M Vet</li>
-                      <li>- ExoWorlds 2.3M Vet</li>
-                      <li>- VVAR DOGS 2M Vet</li>
-                      <li>- NFTPP 2M Vet</li>
+                      <li>- ExoWorlds 2.2M Vet</li>
+                      <li>- VeKings 1.7M Vet</li>
+                      <li>- Mad V Apes .8M Vet</li>
+                      <li>- Zilly Zombies .6M Vet</li>
+                      <li>- VeKing Raiders .4M Vet</li>
                     </ul>
                   </div>
                   </div>
