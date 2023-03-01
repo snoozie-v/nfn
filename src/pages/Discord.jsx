@@ -11,6 +11,7 @@ function Discord() {
           <div className="justify-center flex py-6 text-bold text-blue-50 text-2xl">Discord Directory</div>
           <div className='sm:grid sm:grid-cols-2 sm:gap-2'>
           <div className='p-1 bg-slate-800 rounded-lg'><div className="p-4 text-blue-50">Banner Boi - <a href="https://discord.gg/hn2R8C7XUW" className='hover:underline'>Link to Discord</a></div></div>
+          <div className='p-1 bg-slate-800 rounded-lg'><div className="p-4 text-blue-50">Bored Flamingo Flying Club - <a href="https://discord.gg/nkVM5XbmPw" className='hover:underline'>Link to Discord</a></div></div>
           <div className='p-1 bg-slate-800 rounded-lg'><div className="p-4 text-blue-50">BlackVeMarket - <a href="https://discord.gg/CfQy7k2QQH" className='hover:underline'>Link to Discord</a></div></div>
           <div className='p-1 bg-slate-800 rounded-lg'><div className="p-4 text-blue-50">Corgi Gang - <a href="https://discord.gg/pCsrw4mp6z" className='hover:underline'>Link to Discord</a></div></div>
           <div className='p-1 bg-slate-800 rounded-lg'><div className="p-4 text-blue-50">Division - <a href="https://discord.gg/divisionnft" className='hover:underline'>Link to Discord</a></div></div>
