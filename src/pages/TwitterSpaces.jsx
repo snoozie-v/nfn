@@ -8,11 +8,8 @@ function TwitterSpaces() {
         
         <div className="bg-black p-8 w-4/5 justify-center">
           
-          <div className="py-6 text-bold text-blue-50 text-2xl flex justify-center">VeChain Twitter Spaces<img src={twitterlogo} className='rounded justify-right'></img></div>
-          <div className="pl-4 text-blue-50 text-2xl">Perpetual</div>
-          <div className='p-4 text-blue-50'>- 24/7 Degen Space hosted by   <a href="https://twitter.com/DeGenSpace_" 
-            className="hover:underline">@DegenSpace</a>
-          </div>
+          <div className="py-6 text-bold text-blue-50 text-2xl flex justify-center">VeChain Twitter Spaces</div>
+        
           <div className="pl-4 text-blue-50 text-2xl">Monthly</div>
           <div className='p-4 text-blue-50'>- VeChain Leaders with Connor Boundy   <a href="https://twitter.com/cboundy22" 
             className="hover:underline">@cboundy22</a>

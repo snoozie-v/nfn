@@ -59,7 +59,7 @@ function Home() {
                     <div className='p-2 sm:flex font-bold font-lg sm:text-2xl lg:text-3xl 2xl:text-4xl'>Foundation</div>
                     <ul className='pb-4'>
                       <li className='hover:underline'><a href="https://www.vechain.org">- VeChain.org</a></li>
-                      <li className='hover:underline'><a href="https://www.vechain.org/whitepaper/">- Whitepaper 2.0</a></li>
+                      <li className='hover:underline'><a href="https://www.vechain.org/assets/whitepaper/whitepaper-3-0.pdf">- Whitepaper 3.0</a></li>
                       <li className='hover:underline'><a href="https://www.vechain.org/news/">- VeChain.org News</a></li>
                       <li className='hover:underline'><a href="https://docs.vechain.org">- Documentation</a></li>
                       <li className='hover:underline'><a href="https://www.vechain.org/grant-program/">- Grant Program</a></li>
