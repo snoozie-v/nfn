@@ -17,15 +17,17 @@ function Layout() {
                     <li className="hover:underline sm:pl-8">
                         <Link to="/">Home</Link>
                     </li>
+                    <li className='hover:underline'>
+                    <Link to="/nfn">NFN Content</Link>
+                </li>
+
                     <li className="hover:underline">
                         <Link to="/twitter">Twitter Spaces</Link>
                     </li>
                     <li className="hover:underline">
                         <Link to="/discord">Discord Directory</Link>
                     </li>
-                {/* <li className='hover:underline'>
-                    <Link to="/nfn content">NFN Content</Link>
-                </li> */}
+
 
                 {/* <li className='hover:underline'>Newsletter</li> */}
                     <li className='hover:underline'>

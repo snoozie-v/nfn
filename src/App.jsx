@@ -8,12 +8,14 @@ import TwitterSpaces from "./pages/TwitterSpaces";
 import About from "./pages/About"
 import Contact from "./pages/Contact";
 import NoPage from "./pages/NoPage";
+import NFNContent from "./pages/NFNContent";
 
 function App() {
   return (
     <Routes>
       <Route path ="/" element={<Layout />}> 
         <Route index element = {<Home />} />
+        <Route path="/nfn" element={<NFNContent/>} />
         <Route path="/twitter" element={<TwitterSpaces />} />
         <Route path="/discord" element={<Discord />} />
         <Route path="/about" element={<About />} />

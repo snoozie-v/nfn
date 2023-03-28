@@ -48,11 +48,11 @@ function Home() {
                     <div>
                     <div className='p-2 sm:flex font-bold font-lg sm:text-2xl lg:text-3xl 2xl:text-4xl'>Start Here</div>
                     <ul className='pb-4'>
-                      <li className='hover:underline'><a href="https://vechain.energy/">- VeChain energy</a></li>
-                      <li className='hover:underline'><a href="https://sync.vecha.in">- Sync2 Download</a></li>
-                      <li className='hover:underline'><a href="https://docs.vechain.org/sync2/user-guide/">- Sync2 User Guide</a></li>
-                      <li className='hover:underline'><a href="https://www.youtube.com/watch?v=sEg2leamt0g"></a>- Collection Offers</li>
+                      <li className='hover:underline'><a href="https://docs.vechain.org/sync2/get-sync2">- Get Wallet</a></li>
+                      <li className='hover:underline'><a href="https://docs.vechain.org/sync2/user-guide">- Wallet User Guide</a></li>
+                      <li className='hover:underline'><a href="https://www.youtube.com/watch?v=sEg2leamt0g">- Collection Offers</a></li>
                       <li className='hover:underline'><a href="https://www.youtube.com/watch?v=sDxd0HeaVno">- How to mint</a></li>
+                      <li className='hover:underline'><a href="https://vechain.energy/">- Dev Discord</a></li>
                     </ul>
                     </div>
                   <div>
@@ -60,9 +60,9 @@ function Home() {
                     <ul className='pb-4'>
                       <li className='hover:underline'><a href="https://www.vechain.org">- VeChain.org</a></li>
                       <li className='hover:underline'><a href="https://www.vechain.org/assets/whitepaper/whitepaper-3-0.pdf">- Whitepaper 3.0</a></li>
-                      <li className='hover:underline'><a href="https://www.vechain.org/news/">- VeChain.org News</a></li>
-                      <li className='hover:underline'><a href="https://docs.vechain.org">- Documentation</a></li>
-                      <li className='hover:underline'><a href="https://www.vechain.org/grant-program/">- Grant Program</a></li>
+                      <li className='hover:underline'><a href="https://www.vechain.org/sustainability/#building">- Sustainability</a></li>
+                      <li className='hover:underline'><a href="https://docs.vechain.org/connex">- Documentation</a></li>
+                      <li className='hover:underline'><a href="https://github.com/vechain/grant-program">- Grant Program</a></li>
                     </ul>
                   </div>
     
