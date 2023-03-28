@@ -81,6 +81,9 @@ function Home() {
                   <div className="p-8 text-bold lg:text-4xl md:text-3xl sm:text-2xl text-blue-50 text-base flex justify-center hover:underline">
                     <a href='https://non-fungibulls.com/mint'>NonFungiBulls Mint Page</a>
                   </div>
+                  <div className="p-8 text-bold lg:text-4xl md:text-3xl sm:text-2xl text-blue-50 text-base flex justify-center hover:underline">
+                    <a href='https://medium.com/@nonfungiblenews1/subscribe'>Newsletter Signup</a>
+                  </div>
                   
 
                   <div className='sm:grid sm:grid-cols-3 sm:gap-2'>
