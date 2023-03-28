@@ -23,9 +23,9 @@ function Layout() {
                     <li className="hover:underline">
                         <Link to="/discord">Discord Directory</Link>
                     </li>
-                    {/* <li className="hover:underline">
+                    <li className="hover:underline">
                         <Link to="/twitter">Twitter Spaces</Link>
-                    </li> */}
+                    </li>
 
                     <li className='hover:underline'>
                         <Link to="/about">About</Link>
