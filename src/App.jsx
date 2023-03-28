@@ -10,6 +10,7 @@ import Contact from "./pages/Contact";
 import NoPage from "./pages/NoPage";
 import NFNContent from "./pages/NFNContent";
 
+
 function App() {
   return (
     <Routes>

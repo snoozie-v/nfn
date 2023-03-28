@@ -6,6 +6,9 @@ function Contact() {
     <div className="">
         <div className="font-mono justify-center text-blue-50 bg-slate-800 justify-center">
 
+        <div className="p-8 lg:text-4xl md:text-3xl sm:text-2xl text-blue-50 text-base flex justify-center hover:underline">
+                    <a href='https://medium.com/@nonfungiblenews1/subscribe'>Click Here for Newsletter Sign up</a>
+                  </div>
       <div className="p-8 lg:text-4xl md:text-3xl sm:text-2xl text-blue-50 text-base flex justify-center hover:underline">
                     <a href='https://discord.gg/6BjRw9KyTB'>Click Here for Discord Link</a>
                   </div>

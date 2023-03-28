@@ -20,16 +20,13 @@ function Layout() {
                     <li className='hover:underline'>
                     <Link to="/nfn">NFN Content</Link>
                 </li>
-
-                    <li className="hover:underline">
-                        <Link to="/twitter">Twitter Spaces</Link>
-                    </li>
                     <li className="hover:underline">
                         <Link to="/discord">Discord Directory</Link>
                     </li>
+                    {/* <li className="hover:underline">
+                        <Link to="/twitter">Twitter Spaces</Link>
+                    </li> */}
 
-
-                {/* <li className='hover:underline'>Newsletter</li> */}
                     <li className='hover:underline'>
                         <Link to="/about">About</Link>
                     </li>
