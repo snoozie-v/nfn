@@ -227,7 +227,7 @@ import React from 'react'
 function Wallet() {
   return (
     <div>
-      Wallet
+      Wallet coming soon.  Ask Snoozie in Discord for preview.
     </div>
   )
 }
