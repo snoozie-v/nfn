@@ -1,7 +1,7 @@
 import React from 'react'
 import {useState } from 'react'
 import Connex from "@vechain/connex"
-import { Certificate } from 'thor-devkit'
+// import { Certificate } from 'thor-devkit'
 import "antd/dist/reset.css";
 import { Row, Col, Descriptions, Button } from "antd"
 
@@ -174,6 +174,7 @@ export default function Wallet() {
 
   return (
     <div>
+      <h1>Coming Soon</h1>
       <Row gutter={[32, 32]}>
         <Col span={24} />
         <Col
