@@ -33,9 +33,9 @@ function Layout() {
                     <li className='hover:underline'>
                         <Link to="/contact">Contact</Link>
                     </li>
-                    <li className='hover:underline'>
+                    {/* <li className='hover:underline'>
                         <Link to="/wallet">Wallet</Link>
-                    </li>
+                    </li> */}
                 </ul>
             </div>
 
