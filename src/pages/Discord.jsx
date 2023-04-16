@@ -48,7 +48,6 @@ function Discord() {
           <div className='p-1 bg-slate-800 rounded-lg'><div className="p-4 text-blue-50">YEET - <a href="https://discord.gg/C6jramq5M8" className='hover:underline'>Link to Discord</a></div></div>
           <div className='p-1 bg-slate-800 rounded-lg'><div className="p-4 text-blue-50">Zillionaire Zombies - <a href="https://discord.gg/FjPYu24GmW" className='hover:underline'>Link to Discord</a></div></div>
           </div>
-          <Footer className='2'/>
         </div>
     </div>
   )

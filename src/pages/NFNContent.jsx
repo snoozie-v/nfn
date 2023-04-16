@@ -6,7 +6,7 @@ export default function NFNContent() {
     <div className="flex flex-col min-h-screen bg-slate-800 font-mono">
       <a href="https://medium.com/@nonfungiblenews1/non-fungible-news-letter-429f8dc052f0" target="_blank" rel="noopener noreferrer" className="bg-white p-4 flex flex-col justify-center items-center">
         <h3 className="text-gray-800 text-lg font-semibold mb-2">Check out our latest newsletter on Medium!</h3>
-        <p class="text-gray-600 text-sm border-2 border-gray-400 py-1 px-2 rounded-lg bg-gray-100">Click to read more</p>
+        <p class="text-gray-600 text-sm border-2 border-gray-400 py-1 px-2 rounded-lg bg-gray-100">Click to read now</p>
 
 
       </a>

@@ -4,7 +4,7 @@ import Footer from  './Footer'
 
 function TwitterSpaces() {
   return (
-    <div className="bg-slate-800 font-mono flex justify-center py-8">
+    <div className="bg-slate-800 font-mono flex justify-center py-8 ">
         
         <div className="bg-black p-8 w-4/5 justify-center">
           
@@ -60,9 +60,9 @@ function TwitterSpaces() {
             className="hover:underline">Snoozie</a> 
           </div>
           <div className="pl-4 text-blue-50 text-2xl">Saturday</div>
-          <div className='p-4 text-blue-50'>- Samurai Saturday at 7:00 PM UTC   <a href="https://twitter.com/UkiyoeWarriors" className="hover:underline">Ukiyoe Warriors</a> 
+          <div className='p-4 text-blue-50'>- Samurai Saturday at 7:00 PM UTC   <a href="https://twitter.com/UkiyoeWarriors" className="hover:underline">Ukiyoe Warriors</a>
           </div>
-          <Footer />
+         
         </div>
     </div>
   )
