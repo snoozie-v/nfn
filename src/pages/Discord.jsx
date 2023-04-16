@@ -7,7 +7,7 @@ function Discord() {
     <div className="font-mono flex">
     <div className="bg-slate-800 w-full">
         
-        <div className="bg-black p-8 py-2 mt-2 mb-2 w-4/5 mx-auto">
+        <div className="bg-black p-8 py-2 mt-2 mb-2 w-4/5 mx-auto rounded-md">
           
           <div className="justify-center flex py-6 text-bold text-blue-50 text-2xl">Discord Directory</div>
           <div className='sm:grid sm:grid-cols-2 sm:gap-2'>
