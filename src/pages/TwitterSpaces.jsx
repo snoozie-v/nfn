@@ -4,9 +4,10 @@ import Footer from  './Footer'
 
 function TwitterSpaces() {
   return (
-    <div className="bg-slate-800 font-mono flex justify-center py-8 ">
+    <div className="font-mono flex">
+          <div className='bg-slate-800 w-full'>
         
-        <div className="bg-black p-8 w-4/5 justify-center">
+        <div className="bg-black p-8 py-2 mt-2 mb-2 w-4/5 mx-auto">
           
           <div className="py-6 text-bold text-blue-50 text-2xl flex justify-center">VeChain Twitter Spaces</div>
         
@@ -64,6 +65,9 @@ function TwitterSpaces() {
           </div>
          
         </div>
+        <div className='h-10 bg-slate-800 w-full'></div>
+        <Footer />
+    </div>
     </div>
   )
 }

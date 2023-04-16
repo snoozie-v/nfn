@@ -4,6 +4,7 @@ import hero from '../assets/hero.png'
 import nfn from '../assets/nfn.jpg'
 import vekings from '../assets/vekings.png'
 import mva from '../assets/mva.jpg'
+import nfnlogo from '../assets/nfnlogo.jpg'
 
 function Contact() {
   return (
@@ -22,7 +23,7 @@ function Contact() {
         <div className='sm:grid sm:grid-cols-3 sm:gap-2'>
         <img src={nfn} className='flex w-full h-[480px] xl:w-full xl:h-[640px] rounded-md' />
         <img src={vekings} className='flex w-full h-[480px] xl:w-full xl:h-[640px] rounded-md' />
-        <img src={mva} className='flex w-full h-[420px]  xl:h-[640px] rounded-md' />
+        <img src={mva} className='flex w-full h-[480px]  xl:h-[640px] rounded-md' />
         </div>
         <Footer />
       </div>

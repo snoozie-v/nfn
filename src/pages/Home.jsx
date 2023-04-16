@@ -80,7 +80,7 @@ function Home() {
                   <div>
                   <img src={nonfungibulls} className='w-full' style={{ maxWidth: '100%', margin: '1rem auto', borderRadius: '10px' }} />
 
-                  <div className="p-8 text-bold lg:text-4xl md:text-3xl sm:text-2xl text-blue-50 text-base flex justify-center hover:underline">
+                  <div className="p-8  text-bold lg:text-4xl md:text-3xl sm:text-2xl text-blue-50 text-base flex justify-center hover:underline">
                     <a href='https://non-fungibulls.com/mint'>NonFungiBulls Mint Page</a>
                   </div>
                   <div className="p-8 text-bold lg:text-4xl md:text-3xl sm:text-2xl text-blue-50 text-base flex justify-center hover:underline">
