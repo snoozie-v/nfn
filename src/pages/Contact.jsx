@@ -4,7 +4,7 @@ import hero from '../assets/hero.png'
 import nfn from '../assets/nfn.jpg'
 import vekings from '../assets/vekings.png'
 import mva from '../assets/mva.jpg'
-import nfnlogo from '../assets/nfnlogo.jpg'
+
 
 function Contact() {
   return (
