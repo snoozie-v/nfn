@@ -12,8 +12,8 @@ function Layout() {
                 <div className="2xl:pr-16 xl:pr-8 md:pr-4 pr-2"></div>
                 <div className="text-blue-50 text-sm sm:font-bold sm:text-base md:text-2xl 2xl:text-4xl">Non-Fungible News | VeChainNFTs</div>
             </div>
-            <div className="bg-[#1a1a1a] text-blue-50 items-center md-text-xl">
-                <ul className="p-2 sm:flex sm:space-x-6 text-sm sm:text-lg lg:text-2xl sm:font-bold ">
+            <div className="text-blue-50 bg-gradient-to-r from-black from-20% via-slate-800 to-slate-800 from-90% items-center text-center md:text-xl">
+                <ul className="p-2 sm:flex sm:space-x-6 text-sm sm:text-lg sm:font-bold ">
                     <li className="hover:underline sm:pl-8">
                         <Link to="/">Home</Link>
                     </li>
@@ -32,6 +32,9 @@ function Layout() {
                     </li>
                     <li className='hover:underline'>
                         <Link to="/contact">Contact</Link>
+                    </li>
+                    <li className='hover:underline'>
+                        <Link to="/stats">Stats</Link>
                     </li>
                     {/* <li className='hover:underline'>
                         <Link to="/wallet">Wallet</Link>

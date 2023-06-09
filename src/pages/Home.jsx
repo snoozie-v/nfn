@@ -67,13 +67,13 @@ function Home() {
                   </div>
     
                   <div>
-                    <div className='p-2 sm:flex font-bold font-lg sm:text-2xl lg:text-3xl 2xl:text-4xl'>March Top Volume</div>
+                    <div className='p-2 sm:flex font-bold font-lg sm:text-2xl lg:text-3xl 2xl:text-4xl'>Top Volume Past 30 Days</div>
                     <ul className='pb-4'>
-                      <li>- VeKings 1.4M Vet</li>
-                      <li>- Mad V Apes 500k Vet</li>
-                      <li>- ExoWorlds 422k Vet</li>
-                      <li>- VeKing Raiders 321k Vet</li>
-                      <li>- Tradze Town 234k Vet</li>
+                      <li >- <a className="hover:underline" href="https://exoworlds.io/">Exo Worlds</a></li>
+                      <li>- <a className="hover:underline" href="https://vesea.io/">Vekings OG + Raiders</a></li>
+                      <li>- <a className="hover:underline" href="https://twitter.com/madvapesnft">Mad V Apes Collections x6</a></li>
+                      <li>- <a className="hover:underline" href="https://www.vesea.io/collections/veysarum">Veysarum</a></li>
+                      <li>- <a className="hover:underline" href="https://twitter.com/Tradze_Town">Tradze Town</a></li>
                     </ul>
                   </div>
                   </div>

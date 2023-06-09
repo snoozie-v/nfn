@@ -10,7 +10,7 @@ import Contact from "./pages/Contact";
 import NoPage from "./pages/NoPage";
 import NFNContent from "./pages/NFNContent";
 import Wallet from "./pages/Wallet"
-
+import Stats from "./pages/Stats";
 
 
 function App() {
@@ -24,6 +24,7 @@ function App() {
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/wallet" element={<Wallet />} />
+        <Route path="/stats" element={<Stats />} />
         <Route path="*" element={<NoPage />} />
       </Route>
     
