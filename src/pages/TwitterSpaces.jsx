@@ -15,7 +15,7 @@ function TwitterSpaces() {
           <div className='p-4 text-blue-50'>- VeChain Leaders with Connor Boundy   <a href="https://twitter.com/cboundy22" 
             className="hover:underline">@cboundy22</a>
           </div>
-          <div className="pl-4 text-blue-50 text-2xl">Sunday</div>
+
           <div className="pl-4 text-blue-50 text-2xl">Monday</div>
           <div className='p-4 text-blue-50'>- At The Moment Radio at 2:00 PM UTC   <a href="https://twitter.com/topshelfcrypto1" 
             className="hover:underline">@Topshelf</a> & <a href="https://twitter.com/ROWS_V" 
