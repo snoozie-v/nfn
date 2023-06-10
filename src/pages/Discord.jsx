@@ -36,6 +36,7 @@ function Discord() {
           <div className='p-1 bg-slate-800 rounded-lg text-center'><div className="p-4 text-blue-50"><a href="https://discord.gg/2zFpyvFsTV" className='hover:underline'>Vechain.Energy</a></div></div>
           <div className='p-1 bg-slate-800 rounded-lg text-center'><div className="p-4 text-blue-50"><a href="https://discord.gg/SWBVwMvq9q" className='hover:underline'>VeCowboys</a></div></div>
           <div className='p-1 bg-slate-800 rounded-lg text-center'><div className="p-4 text-blue-50"><a href="https://discord.gg/PzZ2gfQwbQ" className='hover:underline'>VFox Alliance</a></div></div>
+          <div className='p-1 bg-slate-800 rounded-lg text-center'><div className="p-4 text-blue-50"><a href="https://discord.gg/vechain" className='hover:underline'>VeChain</a></div></div>
           <div className='p-1 bg-slate-800 rounded-lg text-center'><div className="p-4 text-blue-50"><a href="https://discord.gg/7yDjdXgke8" className='hover:underline'>VeeParrots</a></div></div>
           <div className='p-1 bg-slate-800 rounded-lg text-center'><div className="p-4 text-blue-50"><a href="https://discord.gg/XfkqShUErd" className='hover:underline'>VeFaM</a></div></div>
           <div className='p-1 bg-slate-800 rounded-lg text-center'><div className="p-4 text-blue-50"><a href="https://discord.gg/EaMZX7hFev" className='hover:underline'>Venonymous</a></div></div>
