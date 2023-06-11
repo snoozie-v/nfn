@@ -67,7 +67,7 @@ function Home() {
                   </div>
     
                   <div>
-                    <div className='p-2 sm:flex font-bold font-lg sm:text-2xl lg:text-3xl 2xl:text-4xl'>Top Volume Past 30 Days</div>
+                    <div className='p-2 sm:flex font-bold font-lg sm:text-2xl lg:text-3xl 2xl:text-4xl'>Top Volume</div>
                     <ul className='pb-4'>
                       <li >- <a className="hover:underline" href="https://exoworlds.io/">Exo Worlds</a></li>
                       <li>- <a className="hover:underline" href="https://vesea.io/">Vekings OG + Raiders</a></li>
