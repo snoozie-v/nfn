@@ -87,7 +87,7 @@ function Home() {
                     <a href='https://medium.com/@nonfungiblenews1/subscribe'>Newsletter Signup</a>
                   </div>
                   </div>
-                  <div className="p-8 text-bold lg:text-4xl md:text-3xl sm:text-2xl text-blue-50 flex text-base justify-center">Non-Fungibulls Artwork</div>
+                  <div className="p-8 text-bold lg:text-4xl md:text-3xl sm:text-2xl text-blue-50 flex text-base justify-center">Non-FungiBulls Artwork</div>
                   <div className='sm:grid sm:grid-cols-3 sm:gap-2'>
                     
                   <img src={stonerp} className='flex w-full h-[420px] xl:h-[640px] rounded-md' />
